@@ -10,7 +10,7 @@ Click the link above, press the green **Play** button, and drag the joystick to 
 
 ## 📸 Simulation Screenshot
 
-![ESP32 Joystick Servo Simulation](simulation.png)
+![ESP32 Joystick Servo Simulation](simulation.jpg)
 
 ## 🔧 How It Works
 
