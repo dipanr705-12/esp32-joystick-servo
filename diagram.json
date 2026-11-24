@@ -10,12 +10,12 @@
   "connections": [
     [ "esp:TX", "$serialMonitor:RX", "", [] ],
     [ "esp:RX", "$serialMonitor:TX", "", [] ],
-    [ "esp:GND.1", "joystick1:GND", "black", [ "v0" ] ],
+    [ "esp:GND.1", "joystick1:GND", "yellow", [ "v0" ] ],
     [ "esp:3V3", "joystick1:VCC", "red", [ "v0" ] ],
-    [ "esp:34", "joystick1:HORZ", "green", [ "v0" ] ],
-    [ "esp:35", "joystick1:VERT", "blue", [ "v0" ] ],
+    [ "esp:34", "joystick1:HORZ", "cyan", [ "v0" ] ],
+    [ "esp:35", "joystick1:VERT", "cyan", [ "v0" ] ],
     [ "esp:5V", "servo1:V+", "red", [ "v0" ] ],
-    [ "esp:GND.2", "servo1:GND", "black", [ "v0" ] ],
+    [ "esp:GND.2", "servo1:GND", "yellow", [ "v0" ] ],
     [ "esp:18", "servo1:PWM", "orange", [ "v0" ] ]
   ],
   "dependencies": {}
